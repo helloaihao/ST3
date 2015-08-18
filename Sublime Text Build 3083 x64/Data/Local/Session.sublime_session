@@ -1,0 +1,481 @@
+{
+	"folder_history":
+	[
+		"/F/jQuery/jQueryCode",
+		"/F/jQuery/ST3",
+		"/F/jQuery",
+		"/C/Users/yaoyao/Desktop/work/test/JavaScriptDOM编程艺术",
+		"/C/Users/yaoyao/Desktop/work/test",
+		"/C/Users/yaoyao/Desktop/work/神将屠龙官网Ver.1.0/SJTL"
+	],
+	"last_version": 3083,
+	"last_window_id": 10,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 573.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pre",
+						"prepareGallery"
+					],
+					[
+						"getE",
+						"getElementsByTagName(${0:name})	Element"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"tex",
+						"text-transform"
+					],
+					[
+						"bo",
+						"box-shadow"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "git",
+				"selected_items":
+				[
+					[
+						"git",
+						"Git: Init"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/hao/.ssh/id_rsa.pub",
+				"/C/Users/yaoyao/Desktop/work/test/JavaScriptDOM编程艺术/4/demo.html",
+				"/C/Users/yaoyao/Desktop/work/test/JavaScriptDOM编程艺术/4/demo.js",
+				"/C/Users/yaoyao/Desktop/work/Sublime Text Build 3083 x64/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+				"/C/Users/yaoyao/Desktop/work/Sublime Text Build 3083 x64/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+				"/C/Users/yaoyao/Desktop/work/Sublime Text Build 3083 x64/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/Users/yaoyao/Desktop/work/Sublime Text Build 3083 x64/Data/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/yaoyao/Desktop/work/Sublime Text Build 3083 x64/2.html",
+				"/C/Users/yaoyao/Desktop/work/test/1.css",
+				"/C/Users/yaoyao/Desktop/work/test/1.html",
+				"/C/Users/yaoyao/Desktop/work/test/float.html",
+				"/C/Users/yaoyao/Desktop/work/神将屠龙官网Ver.1.0/SJTL/index.html",
+				"/C/Users/yaoyao/Downloads/Sublime Text Build 3083 x64/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/yaoyao/Downloads/Sublime Text Build 3083 x64/Data/Packages/Alignment/Base File.sublime-settings",
+				"/C/Users/yaoyao/Downloads/Sublime Text Build 3083 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/yaoyao/Downloads/Sublime Text Build 3083 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/yaoyao/Desktop/work/神将屠龙官网Ver.1.0/SJTL/css/style.css"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\"\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 62.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 882.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pre",
+						"prepareGallery"
+					],
+					[
+						"getE",
+						"getElementsByTagName(${0:name})	Element"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"tex",
+						"text-transform"
+					],
+					[
+						"bo",
+						"box-shadow"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "git",
+				"selected_items":
+				[
+					[
+						"git",
+						"Git: Init"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/jQuery/jQueryCode"
+			],
+			"file_history":
+			[
+				"/C/Users/hao/.ssh/id_rsa.pub",
+				"/C/Users/yaoyao/Desktop/work/test/JavaScriptDOM编程艺术/4/demo.html",
+				"/C/Users/yaoyao/Desktop/work/test/JavaScriptDOM编程艺术/4/demo.js",
+				"/C/Users/yaoyao/Desktop/work/Sublime Text Build 3083 x64/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+				"/C/Users/yaoyao/Desktop/work/Sublime Text Build 3083 x64/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+				"/C/Users/yaoyao/Desktop/work/Sublime Text Build 3083 x64/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/Users/yaoyao/Desktop/work/Sublime Text Build 3083 x64/Data/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/yaoyao/Desktop/work/Sublime Text Build 3083 x64/2.html",
+				"/C/Users/yaoyao/Desktop/work/test/1.css",
+				"/C/Users/yaoyao/Desktop/work/test/1.html",
+				"/C/Users/yaoyao/Desktop/work/test/float.html",
+				"/C/Users/yaoyao/Desktop/work/神将屠龙官网Ver.1.0/SJTL/index.html",
+				"/C/Users/yaoyao/Downloads/Sublime Text Build 3083 x64/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/yaoyao/Downloads/Sublime Text Build 3083 x64/Data/Packages/Alignment/Base File.sublime-settings",
+				"/C/Users/yaoyao/Downloads/Sublime Text Build 3083 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/yaoyao/Downloads/Sublime Text Build 3083 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/yaoyao/Desktop/work/神将屠龙官网Ver.1.0/SJTL/css/style.css"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\"\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\jQuery\\jQueryCode"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 62.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,713,414,81,1312",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 10,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
