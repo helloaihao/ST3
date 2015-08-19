@@ -5,8 +5,11 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
+		"DocBlockr",
 		"Emmet",
 		"Git",
 		"GitGutter",
