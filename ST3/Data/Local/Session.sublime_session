@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/F/jQuery/jQueryCode/jQueryCode",
 		"/C/Users/yaoyao/Desktop/work/test",
 		"/C/Users/yaoyao/Desktop/work/test/jQueryCode",
 		"/F/jQuery/jQueryCode",
@@ -10,11 +11,11 @@
 		"/C/Users/yaoyao/Desktop/work/神将屠龙官网Ver.1.0/SJTL"
 	],
 	"last_version": 3083,
-	"last_window_id": 12,
+	"last_window_id": 13,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 574.0,
+		"new_window_height": 573.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -69,13 +70,33 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 354.0,
 				"last_filter": "git",
 				"selected_items":
 				[
 					[
 						"git",
-						"Git: Init"
+						"Git: Pull"
+					],
+					[
+						"git:co",
+						"Git: Commit"
+					],
+					[
+						"git:a",
+						"Git: Add..."
+					],
+					[
+						"git:com",
+						"Git: Commit"
+					],
+					[
+						"git:s",
+						"Git: Status"
+					],
+					[
+						"git:add",
+						"Git: Add..."
 					],
 					[
 						"Package Control: ",
@@ -90,7 +111,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 528.0
+				"width": 510.0
 			},
 			"console":
 			{
@@ -111,6 +132,10 @@
 			},
 			"file_history":
 			[
+				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.js",
+				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.html",
+				"/C/Users/yaoyao/Desktop/work/ST3/ST3/ST3/Data/Packages/GitGutter/Default (Windows).sublime-keymap",
+				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/1.jQueryWebControl/01-02hide&show/demo.html",
 				"/C/Users/hao/.ssh/id_rsa.pub",
 				"/C/Users/yaoyao/Desktop/work/test/JavaScriptDOM编程艺术/4/demo.html",
 				"/C/Users/yaoyao/Desktop/work/test/JavaScriptDOM编程艺术/4/demo.js",
@@ -173,6 +198,10 @@
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 114.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
@@ -210,7 +239,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 217.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -269,22 +298,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.html",
-					"settings":
-					{
-						"buffer_size": 244,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.js",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -294,16 +307,36 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "Package Control: ",
+				"last_filter": "git",
 				"selected_items":
 				[
 					[
-						"Package Control: ",
-						"Package Control: Install Package"
+						"git",
+						"Git: Status"
 					],
 					[
-						"git",
-						"Git: Init"
+						"git:co",
+						"Git: Commit"
+					],
+					[
+						"git:a",
+						"Git: Add..."
+					],
+					[
+						"git:com",
+						"Git: Commit"
+					],
+					[
+						"git:s",
+						"Git: Status"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
 					],
 					[
 						"Package Control: i",
@@ -314,7 +347,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 506.0
+				"width": 510.0
 			},
 			"console":
 			{
@@ -335,15 +368,16 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/yaoyao/Desktop/work/test",
-				"/C/Users/yaoyao/Desktop/work/test/jQueryCode",
-				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/1.jQueryWebControl",
-				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/1.jQueryWebControl/01-02hide&show",
-				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl",
-				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex"
+				"/F/jQuery/jQueryCode/jQueryCode",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/1.jQueryWebControl",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/1.jQueryWebControl/07-08animate&stop",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl"
 			],
 			"file_history":
 			[
+				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.js",
+				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.html",
 				"/C/Users/yaoyao/Desktop/work/ST3/ST3/ST3/Data/Packages/GitGutter/Default (Windows).sublime-keymap",
 				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/1.jQueryWebControl/01-02hide&show/demo.html",
 				"/C/Users/hao/.ssh/id_rsa.pub",
@@ -398,192 +432,14 @@
 			"folders":
 			[
 				{
-					"path": "C:\\Users\\yaoyao\\Desktop\\work\\test"
+					"path": "F:\\jQuery\\jQueryCode\\jQueryCode"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 244,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										104,
-										104
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"open_with_edit": true,
-									"syntax": "Packages/HTML/HTML.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"open_with_edit": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -622,8 +478,12 @@
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 114.0
+			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,970,965,338,1863",
+			"position": "0,2,3,-32000,-32000,-1,-1,736,104,104,1002",
 			"project": "",
 			"replace":
 			{
@@ -670,7 +530,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 12,
+			"window_id": 13,
 			"workspace_name": ""
 		}
 	],
