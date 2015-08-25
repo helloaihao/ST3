@@ -11,7 +11,7 @@
 		"/C/Users/yaoyao/Desktop/work/神将屠龙官网Ver.1.0/SJTL"
 	],
 	"last_version": 3083,
-	"last_window_id": 13,
+	"last_window_id": 14,
 	"log_indexing": false,
 	"settings":
 	{
@@ -22,6 +22,38 @@
 			{
 				"selected_items":
 				[
+					[
+						"hei",
+						"line-height"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"text-",
+						"text-decoration"
+					],
+					[
+						"cont",
+						"contextmenu	Event"
+					],
+					[
+						"ta",
+						"tagName	Element"
+					],
+					[
+						"substr",
+						"substring(${0:indexA})	String"
+					],
+					[
+						"insert",
+						"insertBefore	.insertBefore()"
+					],
 					[
 						"pre",
 						"prepareGallery"
@@ -51,10 +83,6 @@
 						"clear"
 					],
 					[
-						"ba",
-						"background-size"
-					],
-					[
 						"tex",
 						"text-transform"
 					],
@@ -70,29 +98,29 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "git",
+				"height": 182.0,
+				"last_filter": "git:log",
 				"selected_items":
 				[
 					[
-						"git",
-						"Git: Pull"
-					],
-					[
-						"git:co",
-						"Git: Commit"
-					],
-					[
-						"git:a",
-						"Git: Add..."
-					],
-					[
-						"git:com",
-						"Git: Commit"
+						"git:log",
+						"Git: Log All"
 					],
 					[
 						"git:s",
 						"Git: Status"
+					],
+					[
+						"git:push",
+						"Git: Push"
+					],
+					[
+						"gi",
+						"Git: Commit"
+					],
+					[
+						"git:diff",
+						"Git: Diff All Files"
 					],
 					[
 						"git:add",
@@ -100,7 +128,31 @@
 					],
 					[
 						"Package Control: ",
-						"Package Control: Install Package"
+						"Package Control: List Packages"
+					],
+					[
+						"git:c",
+						"Git: Commit"
+					],
+					[
+						"git:",
+						"Git: Commit"
+					],
+					[
+						"git:a",
+						"Git: Add..."
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"git:co",
+						"Git: Commit"
+					],
+					[
+						"git:com",
+						"Git: Commit"
 					],
 					[
 						"Package Control: i",
@@ -132,6 +184,14 @@
 			},
 			"file_history":
 			[
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/11maxLenTextArea/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/11maxLenTextArea/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/10stripHTMLTag/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/10stripHTMLTag/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/09bindElement/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/09bindElement/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/05insertElement/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/05insertElement/demo.html",
 				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.js",
 				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.html",
 				"/C/Users/yaoyao/Desktop/work/ST3/ST3/ST3/Data/Packages/GitGutter/Default (Windows).sublime-keymap",
@@ -239,7 +299,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 217.0,
+			"side_bar_width": 198.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -254,6 +314,50 @@
 			{
 				"selected_items":
 				[
+					[
+						"add",
+						"addClass〔function〕"
+					],
+					[
+						"c",
+						"children〔function〕"
+					],
+					[
+						"pa",
+						"parent〔function〕"
+					],
+					[
+						"hei",
+						"line-height"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"text-",
+						"text-decoration"
+					],
+					[
+						"cont",
+						"contextmenu	Event"
+					],
+					[
+						"ta",
+						"tagName	Element"
+					],
+					[
+						"substr",
+						"substring(${0:indexA})	String"
+					],
+					[
+						"insert",
+						"insertBefore	.insertBefore()"
+					],
 					[
 						"pre",
 						"prepareGallery"
@@ -283,10 +387,6 @@
 						"clear"
 					],
 					[
-						"ba",
-						"background-size"
-					],
-					[
 						"tex",
 						"text-transform"
 					],
@@ -307,15 +407,59 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "git",
+				"last_filter": "git:",
 				"selected_items":
 				[
 					[
-						"git",
-						"Git: Status"
+						"git:",
+						"Git: Push"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"m",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git:pu",
+						"Git: Push"
 					],
 					[
 						"git:co",
+						"Git: Commit"
+					],
+					[
+						"git:log",
+						"Git: Log All"
+					],
+					[
+						"git:s",
+						"Git: Status"
+					],
+					[
+						"git:push",
+						"Git: Push"
+					],
+					[
+						"gi",
+						"Git: Commit"
+					],
+					[
+						"git:diff",
+						"Git: Diff All Files"
+					],
+					[
+						"git:c",
 						"Git: Commit"
 					],
 					[
@@ -323,20 +467,12 @@
 						"Git: Add..."
 					],
 					[
-						"git:com",
-						"Git: Commit"
-					],
-					[
-						"git:s",
+						"git",
 						"Git: Status"
 					],
 					[
-						"git:add",
-						"Git: Add..."
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
+						"git:com",
+						"Git: Commit"
 					],
 					[
 						"Package Control: i",
@@ -347,7 +483,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 510.0
+				"width": 434.0
 			},
 			"console":
 			{
@@ -371,11 +507,25 @@
 				"/F/jQuery/jQueryCode/jQueryCode",
 				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode",
 				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/1.jQueryWebControl",
-				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/1.jQueryWebControl/07-08animate&stop",
 				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl"
 			],
 			"file_history":
 			[
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/24forbiddenSpecChar/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/README.md",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/24forbiddenSpecChar/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/JavaScripte高级程序设计/20/json.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/12checkboxAll/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/12checkboxAll/demo.css",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/12checkboxAll/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/11maxLenTextArea/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/11maxLenTextArea/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/10stripHTMLTag/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/10stripHTMLTag/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/09bindElement/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/09bindElement/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/05insertElement/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/05insertElement/demo.html",
 				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.js",
 				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/04getIndex/demo.html",
 				"/C/Users/yaoyao/Desktop/work/ST3/ST3/ST3/Data/Packages/GitGutter/Default (Windows).sublime-keymap",
@@ -483,7 +633,7 @@
 				"height": 114.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,736,104,104,1002",
+			"position": "0,0,1,-32000,-32000,-1,-1,738,11,28,708",
 			"project": "",
 			"replace":
 			{
@@ -525,7 +675,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 217.0,
+			"side_bar_width": 161.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
