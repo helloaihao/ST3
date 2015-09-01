@@ -2,20 +2,21 @@
 	"folder_history":
 	[
 		"/F/jQuery/jQueryCode/jQueryCode",
+		"/F/jQuery",
+		"/F/jQuery/jQueryCode/jQueryCode/jQueryCode",
 		"/C/Users/yaoyao/Desktop/work/test",
 		"/C/Users/yaoyao/Desktop/work/test/jQueryCode",
 		"/F/jQuery/jQueryCode",
 		"/F/jQuery/ST3",
-		"/F/jQuery",
 		"/C/Users/yaoyao/Desktop/work/test/JavaScriptDOM编程艺术",
 		"/C/Users/yaoyao/Desktop/work/神将屠龙官网Ver.1.0/SJTL"
 	],
 	"last_version": 3083,
-	"last_window_id": 14,
+	"last_window_id": 19,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 573.0,
+		"new_window_height": 542.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -23,16 +24,32 @@
 				"selected_items":
 				[
 					[
+						"ba",
+						"background-color: 〔property〕"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"add",
+						"addClass〔function〕"
+					],
+					[
+						"c",
+						"children〔function〕"
+					],
+					[
+						"pa",
+						"parent〔function〕"
+					],
+					[
 						"hei",
 						"line-height"
 					],
 					[
 						"text",
 						"text-align"
-					],
-					[
-						"ba",
-						"background-color"
 					],
 					[
 						"text-",
@@ -98,10 +115,58 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 182.0,
-				"last_filter": "git:log",
+				"height": 354.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"repl:n",
+						"SublimeREPL: Node"
+					],
+					[
+						"git:p",
+						"Git: Push"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"git:a",
+						"Git: Add..."
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"git:push",
+						"Git: Push"
+					],
+					[
+						"git:",
+						"Git: Push"
+					],
+					[
+						"m",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git:pu",
+						"Git: Push"
+					],
+					[
+						"git:co",
+						"Git: Commit"
+					],
 					[
 						"git:log",
 						"Git: Log All"
@@ -109,10 +174,6 @@
 					[
 						"git:s",
 						"Git: Status"
-					],
-					[
-						"git:push",
-						"Git: Push"
 					],
 					[
 						"gi",
@@ -123,31 +184,7 @@
 						"Git: Diff All Files"
 					],
 					[
-						"git:add",
-						"Git: Add..."
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					],
-					[
 						"git:c",
-						"Git: Commit"
-					],
-					[
-						"git:",
-						"Git: Commit"
-					],
-					[
-						"git:a",
-						"Git: Add..."
-					],
-					[
-						"git",
-						"Git: Status"
-					],
-					[
-						"git:co",
 						"Git: Commit"
 					],
 					[
@@ -184,6 +221,28 @@
 			},
 			"file_history":
 			[
+				"/F/jQuery/nodeJS/hello.js",
+				"/F/jQuery/nodeJS/public/index.html",
+				"/F/jQuery/ST3/ST3/Data/Packages/User/JavaScript.sublime-settings",
+				"/C/Users/hao/Desktop/Nodejs.sublime-package/Nodejs.sublime-build",
+				"/F/jQuery/ST3/ST3/Data/Packages/User/nodejs.sublime-build",
+				"/F/jQuery/nodeJS/log.txt",
+				"/F/jQuery/ST3/ST3/Data/Packages/User/Nodejs.sublime-settings",
+				"/C/Users/hao/Desktop/Nodejs.sublime-build",
+				"/F/jQuery/ST3/ST3/Data/Installed Packages/Nodejs.sublime-package",
+				"/F/jQuery/ST3/ST3/Data/Packages/User/Autoprefixer.sublime-settings",
+				"/F/jQuery/ST3/ST3/Data/Packages/Nodejs/Nodejs.sublime-settings",
+				"/F/jQuery/ST3/ST3/Packages/nodejs/Nodejs.sublime-build",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/7.jQueryImgContorl/02loadPicCompleted/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/7.jQueryImgContorl/02loadPicCompleted/demo.js",
+				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/24forbiddenSpecChar/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/24forbiddenSpecChar/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/README.md",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/24forbiddenSpecChar/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/JavaScripte高级程序设计/20/json.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/12checkboxAll/demo.js",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/12checkboxAll/demo.css",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/12checkboxAll/demo.html",
 				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/11maxLenTextArea/demo.html",
 				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/11maxLenTextArea/demo.js",
 				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/10stripHTMLTag/demo.html",
@@ -254,6 +313,10 @@
 				"height": 62.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -299,13 +362,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 198.0,
+			"side_bar_width": 215.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 882.0
+		"new_window_width": 681.0
 	},
 	"windows":
 	[
@@ -314,6 +377,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"ba",
+						"background-color: 〔property〕"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
 					[
 						"add",
 						"addClass〔function〕"
@@ -333,10 +404,6 @@
 					[
 						"text",
 						"text-align"
-					],
-					[
-						"ba",
-						"background-color"
 					],
 					[
 						"text-",
@@ -406,12 +473,12 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "git:",
+				"height": 266.0,
+				"last_filter": "git",
 				"selected_items":
 				[
 					[
-						"git:",
+						"git",
 						"Git: Push"
 					],
 					[
@@ -419,12 +486,36 @@
 						"Git: Add..."
 					],
 					[
-						"m",
-						"Markdown Preview: Preview in Browser"
+						"git:push",
+						"Git: Push"
+					],
+					[
+						"git:c",
+						"Git: Commit"
 					],
 					[
 						"Package Control: ",
-						"Package Control: Remove Package"
+						"Package Control: Install Package"
+					],
+					[
+						"repl:n",
+						"SublimeREPL: Node"
+					],
+					[
+						"git:p",
+						"Git: Push"
+					],
+					[
+						"git:a",
+						"Git: Add..."
+					],
+					[
+						"git:",
+						"Git: Push"
+					],
+					[
+						"m",
+						"Markdown Preview: Preview in Browser"
 					],
 					[
 						"mark",
@@ -447,28 +538,12 @@
 						"Git: Status"
 					],
 					[
-						"git:push",
-						"Git: Push"
-					],
-					[
 						"gi",
 						"Git: Commit"
 					],
 					[
 						"git:diff",
 						"Git: Diff All Files"
-					],
-					[
-						"git:c",
-						"Git: Commit"
-					],
-					[
-						"git:a",
-						"Git: Add..."
-					],
-					[
-						"git",
-						"Git: Status"
 					],
 					[
 						"git:com",
@@ -483,7 +558,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 434.0
+				"width": 346.0
 			},
 			"console":
 			{
@@ -505,12 +580,26 @@
 			"expanded_folders":
 			[
 				"/F/jQuery/jQueryCode/jQueryCode",
-				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode",
-				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/1.jQueryWebControl",
-				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl"
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode"
 			],
 			"file_history":
 			[
+				"/F/jQuery/ST3/ST3/Data/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/F/jQuery/nodeJS/hello.js",
+				"/F/jQuery/nodeJS/public/index.html",
+				"/F/jQuery/ST3/ST3/Data/Packages/User/JavaScript.sublime-settings",
+				"/C/Users/hao/Desktop/Nodejs.sublime-package/Nodejs.sublime-build",
+				"/F/jQuery/ST3/ST3/Data/Packages/User/nodejs.sublime-build",
+				"/F/jQuery/nodeJS/log.txt",
+				"/F/jQuery/ST3/ST3/Data/Packages/User/Nodejs.sublime-settings",
+				"/C/Users/hao/Desktop/Nodejs.sublime-build",
+				"/F/jQuery/ST3/ST3/Data/Installed Packages/Nodejs.sublime-package",
+				"/F/jQuery/ST3/ST3/Data/Packages/User/Autoprefixer.sublime-settings",
+				"/F/jQuery/ST3/ST3/Data/Packages/Nodejs/Nodejs.sublime-settings",
+				"/F/jQuery/ST3/ST3/Packages/nodejs/Nodejs.sublime-build",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/7.jQueryImgContorl/02loadPicCompleted/demo.html",
+				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/7.jQueryImgContorl/02loadPicCompleted/demo.js",
+				"/C/Users/yaoyao/Desktop/work/test/jQueryCode/2.jQueryDOMContorl/24forbiddenSpecChar/demo.html",
 				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/24forbiddenSpecChar/demo.html",
 				"/F/jQuery/jQueryCode/jQueryCode/README.md",
 				"/F/jQuery/jQueryCode/jQueryCode/jQueryCode/2.jQueryDOMContorl/24forbiddenSpecChar/demo.js",
@@ -624,6 +713,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -633,7 +726,7 @@
 				"height": 114.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,738,11,28,708",
+			"position": "0,0,1,-1,-1,-1,-1,680,575,79,1272",
 			"project": "",
 			"replace":
 			{
@@ -675,12 +768,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 161.0,
+			"side_bar_width": 215.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 13,
+			"window_id": 19,
 			"workspace_name": ""
 		}
 	],

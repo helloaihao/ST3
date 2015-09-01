@@ -1,6 +1,7 @@
 {
 	"in_process_packages":
 	[
+		"SublimeREPL"
 	],
 	"installed_packages":
 	[
@@ -18,10 +19,11 @@
 		"MarkdownEditing",
 		"Material Theme",
 		"Monokai Extended",
+		"Nodejs",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter",
+		"Terminal",
 		"Theme - Soda",
 		"Theme - SoDaReloaded"
 	]
